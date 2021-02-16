@@ -5,19 +5,24 @@
 ###Endpoint Personas
 referencia: http https://swapi.py4e.com/api/people
 
-localhost:400/personas
+localhost:400/personas<br/>
+
 /personas/:id
 
 ###Endpoint Naves
-referencia: http https://swapi.py4e.com/api/starships
 
-localhost:400/naves
+referencia: http https://swapi.py4e.com/api/starships <br/>
+
+localhost:400/naves<br/>
+
 localhost:400/naves/:id
 
 ###Endpoint Peliculas
-referencia: http https://swapi.py4e.com/api/films
 
-localhost:400/peliculas
+referencia: http https://swapi.py4e.com/api/films<br/>
+
+localhost:400/peliculas<br/>
+
 localhost:400/peliculas/:id
 
 
